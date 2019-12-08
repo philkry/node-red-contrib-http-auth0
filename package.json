@@ -5,7 +5,7 @@
 	"dependencies": {
 		"body-parser": "1.19.0",
 		"cookie-parser": "1.4.4",
-		"raw-body": "2.1.6",
+		"raw-body": "2.4.1",
 		"cors": "2.7.1",
 		"on-headers": "1.0.1",
 		"media-typer": "0.3.0",
